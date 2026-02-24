@@ -1516,7 +1516,7 @@
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	wildmon 13, SNUBBULL
-	wildmon 15, PIDGEY
+	wildmon 15, MANKEY
 	wildmon 14, NIDORAN_F
 	wildmon 14, NIDORAN_M
 	wildmon 13, JIGGLYPUFF
@@ -1524,7 +1524,7 @@
 	wildmon 13, HAPPINY
 	; day
 	wildmon 13, SNUBBULL
-	wildmon 15, PIDGEY
+	wildmon 15, MANKEY
 	wildmon 14, NIDORAN_M
 	wildmon 14, NIDORAN_F
 	wildmon 13, JIGGLYPUFF
