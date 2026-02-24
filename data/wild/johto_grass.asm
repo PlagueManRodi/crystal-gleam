@@ -1347,7 +1347,7 @@
 	def_grass_wildmons ROUTE_29
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	wildmon 2, PIDGEY
+	wildmon 2, ANNIHILAPE
 	wildmon 2, SENTRET
 	wildmon 3, PIDGEY
 	wildmon 3, SENTRET
@@ -1355,7 +1355,7 @@
 	wildmon 3, SUNKERN
 	wildmon 3, HOPPIP
 	; day
-	wildmon 2, PIDGEY
+	wildmon 2, ANNIHILAPE
 	wildmon 2, SENTRET
 	wildmon 3, PIDGEY
 	wildmon 3, SENTRET
@@ -1363,7 +1363,7 @@
 	wildmon 3, SUNKERN
 	wildmon 3, EEVEE
 	; nite
-	wildmon 2, HOOTHOOT
+	wildmon 2, ANNIHILAPE
 	wildmon 2, RATTATA
 	wildmon 3, HOOTHOOT
 	wildmon 3, RATTATA
