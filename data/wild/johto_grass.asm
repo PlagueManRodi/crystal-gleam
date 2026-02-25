@@ -1549,7 +1549,7 @@
 	wildmon 7, GROWLITHE
 	wildmon 6, PIDGEY
 	wildmon 7, PIDGEY
-	wildmon 7, SCYTHER
+	wildmon 8, SCYTHER
 	; day
 	wildmon 5, PIDGEY
 	wildmon 5, PIDGEY
@@ -1557,7 +1557,7 @@
 	wildmon 7, GROWLITHE
 	wildmon 6, VULPIX
 	wildmon 7, PIDGEY
-	wildmon 7, PICHU
+	wildmon 8, PICHU
 	; nite
 	wildmon 5, SPINARAK
 	wildmon 5, HOOTHOOT
@@ -1565,7 +1565,7 @@
 	wildmon 7, VULPIX
 	wildmon 6, HOUNDOUR
 	wildmon 7, GASTLY
-	wildmon 7, PINSIR
+	wildmon 8, PINSIR
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_37
